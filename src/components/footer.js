@@ -27,7 +27,7 @@ export default function AppFooter (){
 
     return(
        <Container fluid>
-        <div className='copyright'>© 2023 Coffee Corner. All Rights Reserved.</div>
+        <div className='copyright'>© 2023 Coffee Mood. All Rights Reserved.</div>
         <div className='socials'>
             <ul>
                 <li><a href='http://www.facebook.com'><i className='fab fa-facebook-f'></i> </a></li>

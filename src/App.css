@@ -131,12 +131,12 @@ ul,
 }
 
 .content-block ul li a:hover {
-  color: #f64b4b;
+  color: #C44902;
 }
 
 .btn.btn-primary {
-  background: #f64b4b;
-  border-color: #f64b4b;
+  background: #C44902;
+  border-color: #C44902;
   padding: 13px 35px;
   font-size: 14px;
   line-height: 18px;
@@ -284,7 +284,7 @@ textarea {
   width: 35px;
   height: 35px;
   background: #fff;
-  color: #f64b4b;
+  color: #C44902;
   border-radius: 50%;
   display: block;
   text-align: center;
@@ -294,7 +294,7 @@ textarea {
 }
 
 .socials a:hover {
-  background: #f64b4b;
+  background: #C44902;
   color: #fff;
 }
 
@@ -313,7 +313,7 @@ textarea {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background: #f64b4b;
+  background: #C44902;
   border-radius: 3px;
   color: #fff;
   border: 0;
@@ -335,35 +335,35 @@ textarea {
 }
 
 .go-top:hover {
-  background: #f41a1a;
+  background: #C44902;
 }
 
 .pagination>li.active a {
-  background: #f64b4b;
-  border-color: #f64b4b;
+  background: #C44902;
+  border-color: #C44902;
 }
 
 .pagination>li.active a:hover {
-  background: #f64b4b;
-  border-color: #f64b4b;
+  background: #C44902;
+  border-color: #C44902;
 }
 
 .pagination>li>a {
-  color: #f64b4b;
+  color: #C44902;
   transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
   padding: 6px 15px 12px;
 }
 
 .pagination>li>a:hover {
-  background: #f64b4b;
+  background: #C44902;
   color: #fff;
-  border-color: #f64b4b;
+  border-color: #C44902;
 }
 
 .pagetitle {
   margin: 80px 0 0;
-  background: #f64b4b;
+  background: #C44902;
   color: #fff;
   padding: 50px 0;
 }
@@ -395,7 +395,7 @@ textarea {
 }
 
 #header .navbar-brand {
-  color: #f64b4b;
+  color: #C44902;
   text-transform: uppercase;
   font-weight: 600;
   height: auto;
@@ -425,7 +425,7 @@ textarea {
 #header .navbar-collapse a:hover,
 #header .navbar-collapse a.active {
   background: none;
-  color: #f64b4b;
+  color: #C44902;
 }
 
 #header .navbar-collapse a:hover:before,
@@ -437,7 +437,7 @@ textarea {
 
 #header .navbar-collapse a:before {
   content: '';
-  background: #f64b4b;
+  background: #C44902;
   height: 1px;
   position: absolute;
   bottom: 7px;
@@ -449,7 +449,7 @@ textarea {
 }
 
 #footer {
-  background: #f64b4b;
+  background: #C44902;
   padding: 50px 0;
   color: #fff;
   text-align: center;
@@ -460,7 +460,7 @@ textarea {
 }
 
 #footer .socials a:hover {
-  background: #f53333;
+  background: #f04c23;
 }
 
 .block {
@@ -514,7 +514,7 @@ textarea {
 }
 
 .about-block .progress-bar {
-  background-color: #f64b4b;
+  background-color: #C44902;
   -webkit-transition: width 0.3s linear;
   transition: width 0.3s linear;
 }
@@ -523,7 +523,7 @@ textarea {
   width: 60px;
   height: 60px;
   font-size: 26px;
-  color: #f64b4b;
+  color: #C44902;
   margin: 0 0 20px;
   display: inline-block;
   vertical-align: middle;
@@ -557,7 +557,7 @@ textarea {
 }
 
 .services-block .holder:hover .icon {
-  box-shadow: inset 0 0 0 30px #f64b4b;
+  box-shadow: inset 0 0 0 30px #C44902;
   color: #fff;
   font-size: 18px;
 }
@@ -589,7 +589,7 @@ textarea {
 
 .works-block .portfoliolist>div h3 {
   margin: 0 0 5px;
-  color: #f64b4b;
+  color: #C44902;
   font-size: 16px;
 }
 
@@ -625,8 +625,8 @@ textarea {
 }
 
 .works-block .pagination .page-item.active .page-link {
-  background: #f64b4b;
-  border-color: #f64b4b;
+  background: #C44902;
+  border-color: #C44902;
 }
 
 .works-block .pagination .page-item .page-link {
@@ -747,7 +747,7 @@ textarea {
 }
 
 .testimonials-block .carousel-indicators .active {
-  background: #f64b4b;
+  background: #C44902;
 }
 
 .pricing-block .row {
@@ -788,7 +788,7 @@ textarea {
 
 .pricing-block div[class*="col"]:nth-child(2) .heading {
   padding: 30px 20px;
-  background: #f64b4b;
+  background: #C44902;
   color: #fff;
 }
 
@@ -798,7 +798,7 @@ textarea {
   position: absolute;
   top: 40px;
   left: 40px;
-  background: #f76363;
+  background: #f04c23;
   color: #fff;
   padding: 5px 10px;
   transform: translateX(-50%) translateY(-50%) rotate(-45deg);
@@ -884,7 +884,7 @@ textarea {
 }
 
 .blog-block .card-title a:hover {
-  color: #d10a0a;
+  color: #f04c23;
 }
 
 .blog-block .meta {
@@ -907,7 +907,7 @@ textarea {
 }
 
 .blog-block .meta .category a:hover {
-  color: #f64b4b;
+  color: #C44902;
 }
 
 .contact-block {
@@ -954,7 +954,7 @@ textarea {
   display: block;
   font-size: 40px;
   margin: 0 0 15px;
-  color: #f64b4b;
+  color: #C44902;
 }
 
 @media only screen and (min-width: 1025px) {

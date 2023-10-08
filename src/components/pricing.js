@@ -6,24 +6,24 @@ import ListGroup from 'react-bootstrap/ListGroup';
 const priceData = [
     {
         id: 1,
-        category: "Stander",
-        ingrediants: ['coffee', 'milk', 'vanilia/banana' ],
+        category: "Small",
+        ingrediants: ['One shot coffee', 'Milk', 'Sugar' ],
         link: 'http://www.google.com',
-        price: '$19'
+        price: '₽150'
     },
     {
         id: 2,
-        category: "premium",
-        ingrediants: ['coffee', 'Extera milk', 'Couconat' ],
+        category: "Meduim",
+        ingrediants: ['One shot coffee', 'Extera milk', 'Sugar/syrup(banana, vanilla)' ],
         link: 'http://www.google.com',
-        price: '$49'
+        price: '₽190'
     },
     {
         id: 3,
-        category: "premium",
-        ingrediants: ['coffee', 'milk', 'nuts' ],
+        category: "large",
+        ingrediants: ['Double shot coffee', 'Extera milk', 'Sugar/syrup(banana, vanilla)' ],
         link: 'http://www.google.com',
-        price: '$90'
+        price: '₽220'
     }
 ]
 

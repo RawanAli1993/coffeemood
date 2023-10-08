@@ -43,15 +43,15 @@ export default function AppContact(){
                 <ul>
                     <li>
                         <i className='fas fa-envelope'></i>
-                        rawan@gamil.com
+                        info@coffeemood.com
                     </li>
                     <li>
                         <i className='fas fa-phone'></i>
-                        927-445-42-41
+                        971-445-42-41
                     </li>
                     <li>
                         <i className='fas fa-map-marker-alt'></i>
-                       Kazan Tatarestan
+                        Ulitsa Pavlyukhina, 91, Kazan, Republic of Tatarstan, 420059
                     </li>
                 </ul>
             </div>

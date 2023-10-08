@@ -30,7 +30,7 @@ function App() {
         <AppTeam />
         <AppReview />
         <AppPrice />
-        <AppBlog/>
+        <AppBlog />
         <AppContact />
        
       </main>

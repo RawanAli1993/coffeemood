@@ -16,8 +16,8 @@ var reviewsData = [
     },
     {
         id: 2,
-        name: "Karam Almagout",
-        designation: "Maneger",
+        name: "Karam Almaghout",
+        designation: "Manager",
         description:"The space is so relaxing, making it ideal for both catching up on work and leisurely reading"
 
     },
