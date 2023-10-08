@@ -39,7 +39,7 @@ var reviewsData = [
 
 export default function AppReview(){
     return (
-        <section id="testimonials" className='testimonials-block '>
+        <section id="review" className='testimonials-block '>
              <Container fluid>
             <div className='title-holder'>
                 <h2>Customers words</h2>

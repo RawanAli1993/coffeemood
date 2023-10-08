@@ -50,7 +50,7 @@ const teamsData = [
 
 export default function AppTeam(){
     return(
-        <section id='teams' className='block teams-block'>
+        <section id='team' className='block teams-block'>
         <Container fluid>
         <div className='title-holder'><h2>Our Team</h2>
     <div className='subtitle'>

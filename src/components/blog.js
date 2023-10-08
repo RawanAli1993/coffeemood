@@ -41,7 +41,7 @@ export default function AppBlog() {
     return(
 
 
-        <section>
+        <section id="blog">
              <Container fluid>
              <div className='title-holder'><h2>Blogs</h2>
         <div className='subtitle'>
